@@ -1,0 +1,202 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="12.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{F74B3E28-9C0B-4EF8-A715-4B7D65D6E69E}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>BaiTapGiuaKy</RootNamespace>
+    <AssemblyName>BaiTapGiuaKy</AssemblyName>
+    <TargetFrameworkVersion>v4.8</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <TargetFrameworkProfile />
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup>
+    <StartupObject>
+    </StartupObject>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationIcon>logo.ico</ApplicationIcon>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Cau5_Bai2_Phan1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Cau5_Bai2_Phan1.Designer.cs">
+      <DependentUpon>Cau5_Bai2_Phan1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Cau5_Bai2_Phan2.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Cau5_Bai2_Phan2.Designer.cs">
+      <DependentUpon>Cau5_Bai2_Phan2.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Cau5_Bai2_Phan3.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Cau5_Bai2_Phan3.Designer.cs">
+      <DependentUpon>Cau5_Bai2_Phan3.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Cau5_Bai2_Phan4.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Cau5_Bai2_Phan4.Designer.cs">
+      <DependentUpon>Cau5_Bai2_Phan4.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Cau4_Bai1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Cau4_Bai1.Designer.cs">
+      <DependentUpon>Cau4_Bai1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Cau4_Bai2.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Cau4_Bai2.Designer.cs">
+      <DependentUpon>Cau4_Bai2.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Cau4_Bai3.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Cau4_Bai3.Designer.cs">
+      <DependentUpon>Cau4_Bai3.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Cau5_Bai1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Cau5_Bai1.Designer.cs">
+      <DependentUpon>Cau5_Bai1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Cau5_Bai2.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Cau5_Bai2.Designer.cs">
+      <DependentUpon>Cau5_Bai2.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Main.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Main.Designer.cs">
+      <DependentUpon>Main.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Compile>
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Cau4_Bai4.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Cau4_Bai4.Designer.cs">
+      <DependentUpon>Cau4_Bai4.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Cau4_Bai5.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Cau4_Bai5.Designer.cs">
+      <DependentUpon>Cau4_Bai5.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="Cau5_Bai2_Phan1.resx">
+      <DependentUpon>Cau5_Bai2_Phan1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Cau5_Bai2_Phan2.resx">
+      <DependentUpon>Cau5_Bai2_Phan2.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Cau5_Bai2_Phan3.resx">
+      <DependentUpon>Cau5_Bai2_Phan3.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Cau5_Bai2_Phan4.resx">
+      <DependentUpon>Cau5_Bai2_Phan4.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Cau4_Bai1.resx">
+      <DependentUpon>Cau4_Bai1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Cau4_Bai2.resx">
+      <DependentUpon>Cau4_Bai2.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Cau4_Bai3.resx">
+      <DependentUpon>Cau4_Bai3.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Cau5_Bai1.resx">
+      <DependentUpon>Cau5_Bai1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Cau5_Bai2.resx">
+      <DependentUpon>Cau5_Bai2.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Main.resx">
+      <DependentUpon>Main.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <EmbeddedResource Include="Cau4_Bai4.resx">
+      <DependentUpon>Cau4_Bai4.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Cau4_Bai5.resx">
+      <DependentUpon>Cau4_Bai5.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="ClassDiagram1.cd" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="logo.ico" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

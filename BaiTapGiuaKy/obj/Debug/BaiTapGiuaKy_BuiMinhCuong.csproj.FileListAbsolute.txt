@@ -1,0 +1,47 @@
+C:\Users\minhc\Downloads\05-Trần Gia Bảo\05-Trần Gia Bảo\Cuối chương 4\bin\Debug\Cuối chương 4.exe.config
+C:\Users\minhc\Downloads\05-Trần Gia Bảo\05-Trần Gia Bảo\Cuối chương 4\bin\Debug\Cuối chương 4.exe
+C:\Users\minhc\Downloads\05-Trần Gia Bảo\05-Trần Gia Bảo\Cuối chương 4\bin\Debug\Cuối chương 4.pdb
+C:\Users\minhc\Downloads\05-Trần Gia Bảo\05-Trần Gia Bảo\Cuối chương 4\obj\Debug\BaiTapGiuaKy_BuiMinhCuong.csproj.AssemblyReference.cache
+C:\Users\minhc\Downloads\05-Trần Gia Bảo\05-Trần Gia Bảo\Cuối chương 4\obj\Debug\BaiTapGiuaKy_BuiMinhCuong.Main.resources
+C:\Users\minhc\Downloads\05-Trần Gia Bảo\05-Trần Gia Bảo\Cuối chương 4\obj\Debug\Cuối_chương_4.Properties.Resources.resources
+C:\Users\minhc\Downloads\05-Trần Gia Bảo\05-Trần Gia Bảo\Cuối chương 4\obj\Debug\BaiTapGiuaKy_BuiMinhCuong.csproj.GenerateResource.cache
+C:\Users\minhc\Downloads\05-Trần Gia Bảo\05-Trần Gia Bảo\Cuối chương 4\obj\Debug\BaiTapGiuaKy_BuiMinhCuong.csproj.CoreCompileInputs.cache
+C:\Users\minhc\Downloads\05-Trần Gia Bảo\05-Trần Gia Bảo\Cuối chương 4\obj\Debug\Cuối chương 4.exe
+C:\Users\minhc\Downloads\05-Trần Gia Bảo\05-Trần Gia Bảo\Cuối chương 4\obj\Debug\Cuối chương 4.pdb
+C:\Users\minhc\Downloads\05-Trần Gia Bảo\05-Trần Gia Bảo\Cuối chương 4\obj\Debug\BaiTapGiuaKy_BuiMinhCuong.Ex1.resources
+C:\Users\minhc\Downloads\05-Trần Gia Bảo\05-Trần Gia Bảo\Cuối chương 4\obj\Debug\BaiTapGiuaKy_BuiMinhCuong.Ex2.resources
+C:\Users\minhc\Downloads\05-Trần Gia Bảo\05-Trần Gia Bảo\Cuối chương 4\obj\Debug\BaiTapGiuaKy_BuiMinhCuong.Cau5_Bai1.resources
+C:\Users\minhc\Downloads\05-Trần Gia Bảo\05-Trần Gia Bảo\Cuối chương 4\obj\Debug\BaiTapGiuaKy_BuiMinhCuong.Cau5_Bai2.resources
+C:\Users\minhc\Downloads\05-Trần Gia Bảo\05-Trần Gia Bảo\Cuối chương 4\obj\Debug\BaiTapGiuaKy_BuiMinhCuong.Cau5_Bai3.resources
+C:\Users\minhc\Downloads\05-Trần Gia Bảo\05-Trần Gia Bảo\Cuối chương 4\obj\Debug\BaiTapGiuaKy_BuiMinhCuong.Cau5_Bai4.resources
+C:\Users\minhc\Downloads\05-Trần Gia Bảo\05-Trần Gia Bảo\Cuối chương 4\obj\Debug\BaiTapGiuaKy_BuiMinhCuong.Ex3.resources
+C:\Users\minhc\Downloads\05-Trần Gia Bảo\05-Trần Gia Bảo\Cuối chương 4\obj\Debug\BaiTapGiuaKy_BuiMinhCuong.Ex6.resources
+C:\Users\minhc\Downloads\05-Trần Gia Bảo\05-Trần Gia Bảo\Cuối chương 4\obj\Debug\BaiTapGiuaKy_BuiMinhCuong.Ex7.resources
+C:\Users\minhc\Downloads\05-Trần Gia Bảo\05-Trần Gia Bảo\Cuối chương 4\obj\Debug\BaiTapGiuaKy_BuiMinhCuong.Ex4.resources
+C:\Users\minhc\Downloads\05-Trần Gia Bảo\05-Trần Gia Bảo\Cuối chương 4\obj\Debug\BaiTapGiuaKy_BuiMinhCuong.Ex5.resources
+C:\Users\minhc\Downloads\05-Trần Gia Bảo\06_BuiMinhCuong\Cuối chương 4\obj\Debug\BaiTapGiuaKy_BuiMinhCuong.csproj.AssemblyReference.cache
+C:\Users\minhc\Downloads\05-Trần Gia Bảo\06_BuiMinhCuong\Cuối chương 4\obj\Debug\Cuối chương 4.exe
+C:\Users\minhc\Downloads\05-Trần Gia Bảo\06_BuiMinhCuong\Cuối chương 4\obj\Debug\Cuối chương 4.pdb
+C:\Users\minhc\Downloads\06_BuiMinhCuong\Cuối chương 4\obj\Debug\BaiTapGiuaKy_BuiMinhCuong.csproj.AssemblyReference.cache
+C:\Users\minhc\Downloads\06_BuiMinhCuong\BaiTapGiuaKy\obj\Debug\BaiTapGiuaKy_BuiMinhCuong.csproj.AssemblyReference.cache
+C:\Users\minhc\Downloads\06_BuiMinhCuong\BaiTapGiuaKy\bin\Debug\Program.cs
+C:\Users\minhc\Downloads\06_BuiMinhCuong\BaiTapGiuaKy\bin\Debug\BaiTapGiuaKy.exe.config
+C:\Users\minhc\Downloads\06_BuiMinhCuong\BaiTapGiuaKy\bin\Debug\BaiTapGiuaKy.exe
+C:\Users\minhc\Downloads\06_BuiMinhCuong\BaiTapGiuaKy\bin\Debug\BaiTapGiuaKy.pdb
+C:\Users\minhc\Downloads\06_BuiMinhCuong\BaiTapGiuaKy\obj\Debug\BaiTapGiuaKy_BuiMinhCuong.Cau5_Bai1.resources
+C:\Users\minhc\Downloads\06_BuiMinhCuong\BaiTapGiuaKy\obj\Debug\BaiTapGiuaKy_BuiMinhCuong.Cau5_Bai2.resources
+C:\Users\minhc\Downloads\06_BuiMinhCuong\BaiTapGiuaKy\obj\Debug\BaiTapGiuaKy_BuiMinhCuong.Cau5_Bai3.resources
+C:\Users\minhc\Downloads\06_BuiMinhCuong\BaiTapGiuaKy\obj\Debug\BaiTapGiuaKy_BuiMinhCuong.Cau5_Bai4.resources
+C:\Users\minhc\Downloads\06_BuiMinhCuong\BaiTapGiuaKy\obj\Debug\BaiTapGiuaKy_BuiMinhCuong.Ex1.resources
+C:\Users\minhc\Downloads\06_BuiMinhCuong\BaiTapGiuaKy\obj\Debug\BaiTapGiuaKy_BuiMinhCuong.Ex2.resources
+C:\Users\minhc\Downloads\06_BuiMinhCuong\BaiTapGiuaKy\obj\Debug\BaiTapGiuaKy_BuiMinhCuong.Ex3.resources
+C:\Users\minhc\Downloads\06_BuiMinhCuong\BaiTapGiuaKy\obj\Debug\BaiTapGiuaKy_BuiMinhCuong.Ex6.resources
+C:\Users\minhc\Downloads\06_BuiMinhCuong\BaiTapGiuaKy\obj\Debug\BaiTapGiuaKy_BuiMinhCuong.Ex7.resources
+C:\Users\minhc\Downloads\06_BuiMinhCuong\BaiTapGiuaKy\obj\Debug\BaiTapGiuaKy_BuiMinhCuong.Main.resources
+C:\Users\minhc\Downloads\06_BuiMinhCuong\BaiTapGiuaKy\obj\Debug\BaiTapGiuaKy.Properties.Resources.resources
+C:\Users\minhc\Downloads\06_BuiMinhCuong\BaiTapGiuaKy\obj\Debug\BaiTapGiuaKy_BuiMinhCuong.Ex4.resources
+C:\Users\minhc\Downloads\06_BuiMinhCuong\BaiTapGiuaKy\obj\Debug\BaiTapGiuaKy_BuiMinhCuong.Ex5.resources
+C:\Users\minhc\Downloads\06_BuiMinhCuong\BaiTapGiuaKy\obj\Debug\BaiTapGiuaKy_BuiMinhCuong.csproj.GenerateResource.cache
+C:\Users\minhc\Downloads\06_BuiMinhCuong\BaiTapGiuaKy\obj\Debug\BaiTapGiuaKy_BuiMinhCuong.csproj.CoreCompileInputs.cache
+C:\Users\minhc\Downloads\06_BuiMinhCuong\BaiTapGiuaKy\obj\Debug\BaiTapGiuaKy.exe
+C:\Users\minhc\Downloads\06_BuiMinhCuong\BaiTapGiuaKy\obj\Debug\BaiTapGiuaKy.pdb
